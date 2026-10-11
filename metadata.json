@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Currículos ATS-Friendly",
+  "description": "Aplicativo profissional para criação e exportação de currículos otimizados para sistemas ATS (Applicant Tracking Systems), com layout em coluna única, formatação semântica e exportação PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
